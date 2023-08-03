@@ -1,0 +1,106 @@
+
+.Chugg{
+    font-size: 40px;
+    font-family:"Segoe UI", Tahoma, sans-serif;
+    margin-block-start: 8%;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    /* background-color: pink;  */
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 42%;
+    text-indent: 10px;
+    letter-spacing: -0.1em;
+}
+.Chu-G{
+    color: blue;
+}
+.Chu-o1{
+    color: red;
+}
+.Chu-o2{
+    color: yellow;
+}
+.Chu-g{
+    color: blue;
+}
+.Chu-l{
+    color: green;
+}
+.Chu-e{
+    color: red;
+}
+b{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(31, 101, 31);
+    margin-left: 35%;
+    font-family:"Segoe UI", Tahoma, sans-serif;
+    margin-block-start: -0.5em;
+}
+.b1{
+    margin-left: 32%;
+    margin-left: 38%;
+
+}
+.search{
+    font-size: 20px;
+    width: 600px;
+    height: 30px;
+    color: rgb(65, 58, 58);
+    background-color: rgb(248, 243, 243);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 20%;
+    text-indent: 20px;
+    width: 60%;
+}
+.tk{
+    font-size: 20px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(193, 164, 164);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 43%;
+    text-align: center;
+}
+.Mau1{
+    background-color: rgb(255, 149, 209);
+    width: 100%;
+    height: 250px;
+}
+
+body{
+    background-color: rgb(255, 168, 208);
+    margin: 0;
+}
+.Mau3{
+    background-color: rgb(255, 149, 209);
+    width: 100%;
+    height: 270px;
+    flex-direction: column;
+    margin-block-start: 35px;
+}
+.MauTg{
+    
+    background-color: rgb(255, 212, 232);
+    border-radius: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 70%;
+    margin-left: 15%;
+    height: 300px;
+    margin-block-start: 3%;
+    box-shadow: 0 0 15px rgb(225, 117, 200);
+    margin-block-end: 2.8%;
+} 
