@@ -65,7 +65,7 @@ body{
 
 .Mau2{
     display: flex;
-    justify-content: center; /* Căn giữa theo trục ngang */
+    justify-content: center;
     align-items: center;
     margin-block-start: 12%;
     width: 100%;
@@ -73,13 +73,9 @@ body{
     background-color: rgb(255, 168, 208);
 }
 .MauTg{
-    
     background-color: rgb(255, 212, 232);
     border-radius: 20px;
     width: 70%;
-    /* margin-left: 15%; */
     height: 300px;
-    /* margin-block-start: 3%; */
     box-shadow: 0 0 15px rgb(225, 117, 200);
-    /* margin-block-end: 2%; */
 } 
